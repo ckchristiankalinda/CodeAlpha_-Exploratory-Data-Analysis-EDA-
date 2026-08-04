@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License">
+ 
 </p>
 
 ---
